@@ -1,0 +1,41 @@
+.main_content {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.for_icon {
+    width: 40%;
+    margin: auto;
+    height: 200px;
+    margin-bottom: 30px;
+}
+.user_profile {
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+}
+.user_sub_content {
+    width: 70%;
+    border: 1px solid black;
+    background-color: black;
+    padding: 10px 20px;
+    display: flex;
+    margin: 10px auto;
+    flex-direction: row;
+}
+.user_sub_content > div:nth-child(1) {
+    width: 150px;
+    font-size: 22px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.user_sub_content > div:nth-child(2) {
+    width: auto;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}

@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Tiger Nixon",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 320800,
+      "age": 61,
+      "profile_image": ""
+    },
+    {
+      "id": 2,
+      "name": "Garrett Winters",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 170750,
+      "age": 63,
+      "profile_image": ""
+    },
+    {
+      "id": 3,
+      "name": "Ashton Cox",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 86000,
+      "age": 66,
+      "profile_image": ""
+    },
+    {
+      "id": 4,
+      "name": "Cedric Kelly",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 433060,
+      "age": 22,
+      "profile_image": ""
+    },
+    {
+      "id": 5,
+      "name": "Airi Satou",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 162700,
+      "age": 33,
+      "profile_image": ""
+    },
+    {
+      "id": 6,
+      "name": "Brielle Williamson",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 372000,
+      "age": 61,
+      "profile_image": ""
+    },
+    {
+      "id": 7,
+      "name": "Herrod Chandler",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 137500,
+      "age": 59,
+      "profile_image": ""
+    },
+    {
+      "id": 8,
+      "name": "Rhona Davidson",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 327900,
+      "age": 55,
+      "profile_image": ""
+    },
+    {
+      "id": 9,
+      "name": "Colleen Hurst",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 205500,
+      "age": 39,
+      "profile_image": ""
+    },
+    {
+      "id": 10,
+      "name": "Sonya Frost",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 103600,
+      "age": 23,
+      "profile_image": ""
+    },
+    {
+      "id": 11,
+      "name": "Jena Gaines",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 90560,
+      "age": 30,
+      "profile_image": ""
+    },
+    {
+      "id": 12,
+      "name": "Quinn Flynn",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 342000,
+      "age": 22,
+      "profile_image": ""
+    },
+    {
+      "id": 13,
+      "name": "Charde Marshall",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 470600,
+      "age": 36,
+      "profile_image": ""
+    },
+    {
+      "id": 14,
+      "name": "Haley Kennedy",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 313500,
+      "age": 43,
+      "profile_image": ""
+    },
+    {
+      "id": 15,
+      "name": "Tatyana Fitzpatrick",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 385750,
+      "age": 19,
+      "profile_image": ""
+    },
+    {
+      "id": 16,
+      "name": "Michael Silva",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 198500,
+      "age": 66,
+      "profile_image": ""
+    },
+    {
+      "id": 17,
+      "name": "Paul Byrd",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 725000,
+      "age": 64,
+      "profile_image": ""
+    },
+    {
+      "id": 18,
+      "name": "Gloria Little",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 237500,
+      "age": 59,
+      "profile_image": ""
+    },
+    {
+      "id": 19,
+      "name": "Bradley Greer",
+      "department": "EEE",
+      "gender": "Male",
+      "salary": 132000,
+      "age": 41,
+      "profile_image": ""
+    },
+    {
+      "id": 20,
+      "name": "Dai Rios",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 217500,
+      "age": 35,
+      "profile_image": ""
+    },
+    {
+      "id": 21,
+      "name": "Jenette Caldwell",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 345000,
+      "age": 30,
+      "profile_image": ""
+    },
+    {
+      "id": 22,
+      "name": "Yuri Berry",
+      "department": "CSE",
+      "gender": "Male",
+      "salary": 675000,
+      "age": 40,
+      "profile_image": ""
+    },
+    {
+      "id": 23,
+      "name": "Caesar Vance",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 106450,
+      "age": 21,
+      "profile_image": ""
+    },
+    {
+      "id": 24,
+      "name": "Doris Wilder",
+      "department": "ECE",
+      "gender": "Male",
+      "salary": 85600,
+      "age": 23,
+      "profile_image": ""
+    }
+  ],
+  "message": "Successfully! All records has been fetched."
+}

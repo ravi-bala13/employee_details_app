@@ -1,0 +1,96 @@
+button {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  font-size: inherit;
+  cursor: pointer;
+}
+#screen {
+  background-color: #30343b;
+}
+#navbar_home {
+  width: 100%;
+  height: 70px;
+  margin-bottom: 100px;
+  position: fixed;
+  background-color: #242527;
+  border-bottom: solid 1px #30343b;
+  border-radius: 4px;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.nav_content_home {
+  display: flex;
+  margin-right: 40px;
+  color: aliceblue;
+}
+.nav_content_home > div > button {
+  border: 1px solid aliceblue;
+  margin: 20px 10px;
+  border-radius: 4px;
+  font-size: 20px;
+  padding: 3px 20px;
+}
+#homepage {
+  background-image: url("https://insula.tech/wp-content/uploads/2021/06/employee-clipart-gTeoAk9xc.jpg");
+  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 10px;
+  width: 90%;
+  height: 450px;
+  margin: 0% 5%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.blank {
+  height: 100px;
+}
+.contents {
+  width: 400px;
+  margin: 50px 100px 50px 20px;
+}
+.heading {
+  color: black;
+}
+.logging_in,
+.signing_up {
+  display: flex;
+  justify-content: center;
+}
+#login_form,
+#signup_form {
+  display: flex;
+  flex-direction: column;
+}
+#login_form > input,
+#signup_form > input {
+  margin: 10px;
+  width: 300px;
+  font-size: 16px;
+  padding: 5px 4px;
+  color: black;
+}
+
+#login_form > button,
+#signup_form > button {
+  margin: 10px auto;
+  padding: 8px 50px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: #30343b;
+}
+.for_login1 {
+  display: block;
+}
+.for_login2 {
+  display: none;
+}
+.for_signup2 {
+  display: none;
+}
+.for_signup1 {
+  display: block;
+}
